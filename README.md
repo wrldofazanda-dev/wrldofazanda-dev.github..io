@@ -1,7 +1,7 @@
 # TODO: Bongmusa to add files for pwa
   ### add serviceworker.js (have code to install pwa to device) []
   ### add manifest.json (add app names and link app icon images) []
-  ### add app icons (use https://canva.com/ to create a logo for the app) []
+  ### add app icons (use https://canva.com/ to create a logo for the app *export logo in these sizes[48x48, 250x250, 512x512]) []
 # TODO: Azanda to add files for pwa
   ### index.php (welcome screen)
   ### about.php (what the app is about)
